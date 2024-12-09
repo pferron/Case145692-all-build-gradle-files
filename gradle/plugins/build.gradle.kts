@@ -14,7 +14,7 @@ dependencies {
     implementation("io.github.gradle-nexus:publish-plugin:1.1.0")
     implementation("io.swagger.codegen.v3:swagger-codegen:3.0.30")
     implementation("io.swagger.codegen.v3:swagger-codegen-generators:1.0.30")
-    implementation("io.swagger.core.v3:swagger-jaxrs2:2.1.11")
+    implementation("io.swagger.core.v3:swagger-jaxrs2:2.1.12")
     implementation("io.swagger:swagger-jaxrs:1.5.16")
     implementation("javax.xml.bind:jaxb-api:2.3.0")
     implementation("javax.ws.rs:javax.ws.rs-api:2.1")
