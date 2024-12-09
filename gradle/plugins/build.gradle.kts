@@ -12,7 +12,7 @@ dependencies {
     val kotlinVersion = "1.9.21"
     implementation("com.google.protobuf:protobuf-gradle-plugin:0.9.4")
     implementation("io.github.gradle-nexus:publish-plugin:1.1.0")
-    implementation("io.swagger.codegen.v3:swagger-codegen:3.0.30")
+    implementation("io.swagger.codegen.v3:swagger-codegen:3.0.58")
     implementation("io.swagger.codegen.v3:swagger-codegen-generators:1.0.30")
     implementation("io.swagger.core.v3:swagger-jaxrs2:2.1.11")
     implementation("io.swagger:swagger-jaxrs:1.5.16")
