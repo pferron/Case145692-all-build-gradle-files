@@ -33,7 +33,7 @@ dependencies {
     implementation("com.influxdb:influxdb-client-java:6.3.0")
     implementation("de.thetaphi:forbiddenapis:3.7")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.13.0")
-    implementation("org.yaml:snakeyaml:1.31")
+    implementation("org.yaml:snakeyaml:2.0")
     implementation("com.expediagroup:graphql-kotlin-gradle-plugin:6.4.0")
     implementation("org.revapi:revapi-java:0.28.1")
     implementation("org.revapi:revapi-basic-features:0.13.0")
